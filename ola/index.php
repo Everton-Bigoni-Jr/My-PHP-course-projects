@@ -7,16 +7,19 @@
 </head>
 <body>
 
-<h1>👑 Jesus is King 👑</h1>
-<h2>Code by - @evertin_bg</h2>
-<h3>👉 My <a href="https://github.com/Everton-Bigoni-Jr" target="_blank">GitHub</a></h3>
-<hr>
+<!--HTML code--> 
+    <h1>👑 Jesus is King 👑</h1>
+    <h2>Code by - @evertin_bg</h2>
+    <h3>👉 My <a href="https://github.com/Everton-Bigoni-Jr" target="_blank">GitHub</a></h3>
+    <hr>
+<!--HTML code-->
 
-
+<!--PHP code-->
     <h1>
         <?php
-            echo "Olá Mundo"
+            echo "Olá Mundo";
         ?>
     </h1>
+<!--PHP code-->
 </body>
 </html>
