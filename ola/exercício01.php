@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<!--HTML code--> 
+<h1>👑 Jesus is King 👑</h1>
+<h2>Code by - @evertin_bg</h2>
+<h3>👉 My <a href="https://github.com/Everton-Bigoni-Jr" target="_blank">GitHub</a></h3>
+<hr>
+<!--HTML code-->
+
+<!--PHP code-->
+<h1>
+    <?php
+        echo "Sou o primeiro exercício de PHP"
+    ?>
+</h1>
+
+<!--PHP code-->
+
+</body>
+</html>
